@@ -97,4 +97,4 @@ Finally i went to http://localhost/robot_control/index.html to see the webpage a
 
 here is the database that recived the data from the webpage 
 
-![Screenshot 2024-07-06 162830](https://github.com/FaisalBaqutyan/webpage-for-robot-mpvement/assets/174335196/95ca4e1c-6c1b-415b-a5ef-45f8fbf68dc3)
+![Screenshot 2024-07-06 162627](https://github.com/FaisalBaqutyan/webpage-for-robot-movement/assets/174335196/95ce1430-df0f-45c4-b75c-c03d608dfbcc)
